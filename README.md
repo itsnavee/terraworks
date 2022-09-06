@@ -1,1 +1,1 @@
-## terraworks
+## Terraform workshop
