@@ -18,7 +18,3 @@ This exercise will create the following resources in AWS using Terraform:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [diagram]: diagram/diagram.png
-
-
-Credits:
-* [https://medium.com/geekculture](https://medium.com/geekculture/how-to-deploy-a-three-tier-architecture-in-aws-using-terraform-e5dfd7b6d38f)
