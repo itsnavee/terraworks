@@ -38,5 +38,5 @@ This exercise will create the following resources in AWS using Terraform:
 [linkedin-url]: https://linkedin.com/in/naveedah
 [diagram]: diagram/diagram.png
 [license-shield]: https://img.shields.io/github/license/itsnavee/terraworks.svg?style=for-the-badge
-[license-url]: https://github.com/itsnavee/terraworks/blob/master/LICENSE.txt
+[license-url]: https://github.com/itsnavee/terraworks/blob/master/aws-three-tier-architecture-ex-1/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
