@@ -1,4 +1,4 @@
-## Building a 3-Tier Web Application in AWS with Terraform
+## Exercise-1: Building a 3-Tier Web Application in AWS with Terraform
 This exercise will create the following resources in AWS using Terraform:
 
 * VPC
