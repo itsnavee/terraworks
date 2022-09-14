@@ -35,7 +35,7 @@ resource "aws_subnet" "public_subnet_2" {
 
 resource "aws_subnet" "app_subnet_1" {
   vpc_id                  = aws_vpc.alpha_vpc.id
-  availability_zone         = local.az1
+  availability_zone       = local.az1
   map_public_ip_on_launch = false
   cidr_block              = var.vpc_subnet_3
 
@@ -80,8 +80,8 @@ resource "aws_subnet" "db_subnet_2" {
 
 # database subnet group
 resource "aws_db_subnet_group" "alpha_db_subnet_group" {
-  name = "alpha_db_subnet_group"
-  subnet_ids = [ aws_subnet.db_subnet_1.id, aws_subnet.db_subnet_2.id ]
+  name       = "alpha_db_subnet_group"
+  subnet_ids = [aws_subnet.db_subnet_1.id, aws_subnet.db_subnet_2.id]
 
   tags = {
     "Name" = "Alpha VPC DB Subnet Group"

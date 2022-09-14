@@ -36,7 +36,7 @@ variable "machine_images" {
 }
 
 variable "vpc_security_group" {
-  type = string
+  type    = string
   default = "sg-05063efc1026d8189"
 }
 

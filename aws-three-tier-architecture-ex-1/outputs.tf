@@ -19,15 +19,15 @@ output "webserver_2" {
 
 output "loadbalancer_dns_name" {
   description = "DNS fqdn of the application loadbalancer"
-  value = aws_lb.alpha_alb.dns_name
+  value       = aws_lb.alpha_alb.dns_name
 }
 
 output "database_instance" {
   description = "Alpha DB Instance Endpoint"
-  value = aws_db_instance.alpha_mysqldb_default.endpoint
+  value       = aws_db_instance.alpha_mysqldb_default.endpoint
 }
 
 output "routing_table" {
   description = "Alpha VPC routing table"
-  value = aws_route_table.main_routing_table.route
+  value       = aws_route_table.main_routing_table.route
 }
