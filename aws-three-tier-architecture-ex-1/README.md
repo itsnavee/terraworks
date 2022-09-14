@@ -12,6 +12,7 @@ This exercise will create the following resources in AWS using Terraform:
 
 
 ### Diagram
+The following diagram is created using `diagrams` [python library](https://diagrams.mingrammer.com/). [see code in diagram folder]
 [![Exercise-1 Diagram][diagram]](#)
 
 
