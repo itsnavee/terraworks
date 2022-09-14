@@ -10,7 +10,7 @@ resource "aws_instance" "webserver_1" {
   user_data                   = file("userdata.sh")
 
   tags = {
-    "Name" : "Public Web Server 1"
+    "Name" : "webserver"
   }
 }
 
@@ -24,7 +24,7 @@ resource "aws_instance" "webserver_2" {
   user_data                   = file("userdata.sh")
 
   tags = {
-    "Name" : "Public Web Server 2"
+    "Name" : "webserver"
   }
 }
 

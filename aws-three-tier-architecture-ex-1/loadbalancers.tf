@@ -15,7 +15,7 @@ resource "aws_lb_target_group" "alpha_alb_tg" {
 
 resource "aws_lb_target_group_attachment" "alpha_alb_attachment_1" {
   target_group_arn = aws_lb_target_group.alpha_alb_tg.arn
-  target_id        = aws_instance.webserver_2.id
+  target_id        = aws_instance.webserver_1.id
   port             = 80
 
   depends_on = [

@@ -31,7 +31,7 @@ variable "regions" {
 variable "machine_images" {
   type = map(any)
   default = {
-    "t2.micro" : "ami-0de49f883a95ec117",
+    "t2.micro" : "ami-09e2d756e7d78558d",
   }
 }
 
