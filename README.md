@@ -31,8 +31,7 @@
 [license-shield]: https://img.shields.io/github/license/itsnavee/terraworks.svg?style=for-the-badge
 [license-url]: https://github.com/itsnavee/terraworks/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[terraform-banner]: https://github.com/itsnavee/terraworks/blob/master/images/terraform
-.jpg
+[terraform-banner]: https://github.com/itsnavee/terraworks/blob/master/images/terraform.jpg
 
 <!-- Exercises -->
 [exercise-1]: https://github.com/itsnavee/terraworks/tree/master/freecodecamp_course
