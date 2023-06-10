@@ -14,6 +14,7 @@
 
 1. [Building a 3-tier web application in AWS using Terraform][exercise-2]
 1. [AWS/Terraform Exercise inspired by the freecodecamp Terrafrom youtube course (work-in-progress)][exercise-1]
+2. [Terraform & IBM Cloud lab][exercise-3]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -36,3 +37,4 @@
 <!-- Exercises -->
 [exercise-1]: https://github.com/itsnavee/terraworks/tree/master/freecodecamp_course
 [exercise-2]: https://github.com/itsnavee/terraworks/tree/master/aws-three-tier-architecture-ex-1
+[exercise-3]: https://github.com/itsnavee/terraworks/tree/master/ibmcloud-3tier-example-1
