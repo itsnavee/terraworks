@@ -12,13 +12,8 @@
 
 [![terraform-banner]](#)
 
-<<<<<<< HEAD
 1. [Building a 3-tier web application in AWS using Terraform][exercise-2]
 1. [AWS/Terraform Exercise inspired by the freecodecamp Terrafrom youtube course (work-in-progress)][exercise-1]
-=======
-1. [AWS/Terraform Exercise inspired by the freecodecamp Terrafrom youtube course (work-in-progress)][exercise-1]
-2. [Building a 3-tier web application in AWS using Terraform][exercise-2]
->>>>>>> 5305694 (abc)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
