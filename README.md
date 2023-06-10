@@ -10,10 +10,15 @@
 
 ## AWS & Terraform Workshops
 
-[![terraform-aws-logo]](#)
+[![terraform-banner]](#)
 
+<<<<<<< HEAD
 1. [Building a 3-tier web application in AWS using Terraform][exercise-2]
 1. [AWS/Terraform Exercise inspired by the freecodecamp Terrafrom youtube course (work-in-progress)][exercise-1]
+=======
+1. [AWS/Terraform Exercise inspired by the freecodecamp Terrafrom youtube course (work-in-progress)][exercise-1]
+2. [Building a 3-tier web application in AWS using Terraform][exercise-2]
+>>>>>>> 5305694 (abc)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -31,7 +36,8 @@
 [license-shield]: https://img.shields.io/github/license/itsnavee/terraworks.svg?style=for-the-badge
 [license-url]: https://github.com/itsnavee/terraworks/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[terraform-aws-logo]: https://github.com/itsnavee/terraworks/blob/master/images/terraform-aws-dark.jpeg
+[terraform-banner]: https://github.com/itsnavee/terraworks/blob/master/images/terraform
+.jpg
 
 <!-- Exercises -->
 [exercise-1]: https://github.com/itsnavee/terraworks/tree/master/freecodecamp_course
