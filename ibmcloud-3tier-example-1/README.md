@@ -17,6 +17,8 @@ This exercise will create the following resources in AWS using Terraform:
 [![Diagram][diagram]](#)
 
 
+### FootNotes
+[Inspiration: https://github.com/IBM-Cloud/vpc-ha-iac](https://github.com/IBM-Cloud/vpc-ha-iac)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [ibmcloud]: images/ibmcloud_logo.png
