@@ -9,7 +9,7 @@
 1. 1x Floating IP address that you use to access your VPC virtual server instance over the public network
 
 ### Notes:
-For test.cloud.ibm.com endpoint, you have to set the following environmental variables before running `terraform plan` command:
+For test.cloud.ibm.com endpoint, you have to set the following environmental variables before running `terraform plan` command. You can also put them in your `.bashrc` or `.zshrc`:
 
 ```
 export IC_API_KEY="your api key goes here"
