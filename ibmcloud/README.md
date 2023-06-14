@@ -1,6 +1,6 @@
 # Provisioning a Virtual Server Instance (VSI) in IBM Test Cloud using Terraform
 
-
+This is what you will be provisioning in this example:
 
 1. 1x VPC where you provision your VPC virtual server instance
 1. 1x security group and a rule for this security group to allow SSH connection to your virtual server instance
