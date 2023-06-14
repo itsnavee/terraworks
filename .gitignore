@@ -5,6 +5,8 @@
 # ignore these
 .git
 .DS_Store
+.terraform.lock.hcl
+.terraform*
 
 ### terraform settings
 # Local .terraform directories
