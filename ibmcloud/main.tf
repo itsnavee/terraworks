@@ -18,7 +18,7 @@ variable "ssh_key" {
 }
 
 locals {
-  BASENAME = "vpctestexample"
+  BASENAME = "snowcold"
   ZONE     = "us-south-1"
 }
 
